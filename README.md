@@ -1,3 +1,8 @@
+# Yoseph Rechdiner
+# 213507742
+# Negev
+
+
 # Coordinates API - Kubernetes Deployment
 
 A FastAPI application that manages geographic coordinates with PostgreSQL backend, deployed using Kubernetes StatefulSet.
